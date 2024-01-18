@@ -40,5 +40,5 @@ hipser : Devia Ayu Purwenty hustler : Kuny lutfiyatur Rohmah hacker 1 : Ma'ruf H
 ![image](https://github.com/123PUTRA/enoko_team/assets/150839876/f4f33c92-dbc6-455a-bbb4-f542a78cbb4d)
 
 Dalam contoh tampilan ini kami belum memiliki UI di bagian fron endnya mungkin akan di kembangkan di tahap selanjutnya.
-bebrpa vitur masih belum berfungsi secara dinamis, seperti vitur maps yang menampilkan alamat toko lagsung di halaman utama
+beberapa vitur masih belum berfungsi secara dinamis, seperti vitur maps yang menampilkan alamat toko lagsung di halaman utama
 mempermudah user melakukan pencarian berdasrkan wilayah tertentu dan beberpa vitur lagi sesuai penjelelasan kami di pick decknya. 
